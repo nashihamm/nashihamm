@@ -14,5 +14,5 @@
 
 
 ### Connect with Me
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/nashihamm)  
+- LinkedIn: [linkedin.com/in/nashihamm](https://linkedin.com/in/nashihamm)  
 - Email: nashihamm@gmail.com  
