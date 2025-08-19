@@ -1,15 +1,18 @@
-## Hi there 👋
+# Salaam 👋 I'm Nashihun Amin  
+
+**Fullstack Web App Developer**
+
+---
+
+### About Me
+ 
+- Focused on **Laravel, React, and AdonisJS**  
+- Interested in **e-commerce platforms, CMS, and task management tools**  
+- I share tips, debugging stories, and app-building experiences on [LinkedIn](https://linkedin.com/in/your-link)  
+
+---
 
 
-**nashihamm/nashihamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Connect with Me
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/nashihamm)  
+- Email: nashihamm@gmail.com  
