@@ -7,9 +7,7 @@ From backend logic to frontend experience, I care about delivering apps that are
 ---
 
 ### Highlighted Work
-- **Group Chat App** – A WhatsApp-like group chat built with Laravel + Livewire, serving 2,500+ users in production.  
-- **Task Manager (RO)** – A task management tool with admin approval flow, role-based access, and clean UI.  
----
+
 
 ### About Me
 - Focused on building good web apps.
